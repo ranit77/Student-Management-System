@@ -6,4 +6,4 @@ c)DISPLAY
 d)SEARCH
 e)DELETE
 Student details
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fd2jyir0m79gs60.cloudfront.net%2Fnews%2Fimages%2Fsuccessful-college-student-lg.png&imgrefurl=https%3A%2F%2Fplexuss.com%2Fnews%2Farticle%2Fhow-to-be-a-successful-college-student&tbnid=NsNZ54F8DxDgSM&vet=12ahUKEwij5KOa1Of6AhVBKbcAHUscBT8QMygBegUIARDeAQ..i&docid=4xUYG0LqyYhxbM&w=700&h=500&q=student&ved=2ahUKEwij5KOa1Of6AhVBKbcAHUscBT8QMygBegUIARDeAQ
+![image](https://user-images.githubusercontent.com/104568301/196229260-392ca8bb-1ec0-4246-a8c3-dda0c62d1a99.png)
