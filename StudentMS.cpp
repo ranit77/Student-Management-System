@@ -183,6 +183,7 @@ void search(int l)
 }
 int main()
 {
+   system("cls");//clear screen
    system("color 6B"); //add background colour
    /*(0-9 for background colour)
    (a-f for text colour)*/
